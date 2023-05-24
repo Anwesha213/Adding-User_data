@@ -106,9 +106,9 @@ function myFunction2() {
   x.value = x.value.toUpperCase();
 }
 
-function myFunction3() {
+/*function myFunction3() {
   alert("You pressed a key inside the input field");
-}
+}*/
 
 function myFunction4() {
   alert("The form was reset");
